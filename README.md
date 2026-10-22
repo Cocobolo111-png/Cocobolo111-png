@@ -20,11 +20,17 @@
 
 [Repository](https://github.com/Cocobolo111-png/love-journal)
 
-### Personal Portfolio
+### Personal Portfolio · V0.3
 
-关于产品、创意与实践的个人作品集，通过真实项目呈现设计判断与执行过程。
+总想试试，事情还能怎么做。
 
-[Repository](https://github.com/Cocobolo111-png/personal-portfolio) · [访问作品集](https://cocobolo111-png.github.io/personal-portfolio/)
+用「好奇 → 关注 → 信念 → 创造 → 正在发生」五个章节展开自我介绍，再通过四个主要项目与 Love Journal 补充案例，呈现从问题判断到实际验证的过程。
+
+[![何扬作品集 V0.3：线上首页的真实截图](https://raw.githubusercontent.com/Cocobolo111-png/personal-portfolio/82a29a8853d71dd51e9cf43d8019b5c6d1253a93/docs/images/portfolio-hero.webp)](https://cocobolo111-png.github.io/personal-portfolio/)
+
+[Repository](https://github.com/Cocobolo111-png/personal-portfolio) · [访问作品集](https://cocobolo111-png.github.io/personal-portfolio/) · [浏览全部作品](https://cocobolo111-png.github.io/personal-portfolio/#work)
+
+案例直达：[AI 视频生产工作台](https://cocobolo111-png.github.io/personal-portfolio/work/ai-video-workbench/) · [AI Content Growth OS](https://cocobolo111-png.github.io/personal-portfolio/work/ai-content-growth-os/) · [TrainTrace](https://cocobolo111-png.github.io/personal-portfolio/work/traintrace/) · [盘两下](https://cocobolo111-png.github.io/personal-portfolio/work/panliangxia/) · [Love Journal](https://cocobolo111-png.github.io/personal-portfolio/work/love-journal/)
 
 ## Explore More
 
